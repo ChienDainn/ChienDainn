@@ -376,6 +376,6 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 
 
 -----
-Credits: [Al-Amin](https://github.com/alamin-babu)
+Credits: (https://github.com/ChienDainn)
 
 Last Edited on: 04/07/2024
