@@ -53,18 +53,18 @@ I am Chien, a student and tech enthusiast with a passion for software developmen
  <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
  </a>
 
- <a href="https://www.instagram.com/">
+ <a href="https://www.instagram.com/romewoooo/">
  <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
  </a>
 
- <a href="https://t.me/alamin2me">
+ <a href="">
  <img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
  </a>
 
- <a href="https://discord.com/invite/5RmW6dZKpe6">
+ <a href="6">
  <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
  </a>
- <a href="mailto:alamin.contact24@gmail.com">
+ <a href="mailto:chien.minh001@gmail.com">
  <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
 </p>
@@ -76,7 +76,7 @@ I am Chien, a student and tech enthusiast with a passion for software developmen
 
 
 <p align="left"> 
-  <a href="https://www.hackerrank.com/Alamin972731?hr_r=1" target="_blank"> 
+  <a href="https://www.hackerrank.com/profile/chien_minh001 target="_blank"> 
     <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white"/>
   </a>
   
